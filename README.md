@@ -1,2 +1,1 @@
-----------Site das entregas----------
-https://nogueira237.github.io/S05-IHM
+Entregas: https://nogueira237.github.io/S05-IHM
