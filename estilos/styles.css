@@ -50,12 +50,10 @@ a:hover{
     border-style: solid;
     box-shadow: 1px 1px 5px black;
     border-color: rgb(0, 0, 129);
-    margin-top: -30px;
+    
     transform: scale(1.1);
 }
-.esquerda{
-    margin-top: -30px;
-}
+
 
 #titulo {
     color: rgb(255, 255, 255);
